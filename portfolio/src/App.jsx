@@ -302,9 +302,9 @@ const App = () => {
                 link: ""
               },
               { 
-                title: 'Task Management App', 
-                tech: 'React, Firebase', 
-                desc: 'Collaborative task management application with real-time synchronization and team features.', 
+                title: 'Mini Ethical Hacking Simulator', 
+                tech: 'React, Node.js', 
+                desc: 'Interactive simulator for lerning ethical hacking techniques and cybersecurity concepts.', 
                 color: 'cyan',
                 status: 'Live',
                 link: ""
@@ -312,7 +312,7 @@ const App = () => {
               { 
                 title: 'Blog Platform', 
                 tech: 'React', 
-                desc: '', 
+                desc: 'A sleek blog platform with modern design and user-friendly interface.', 
                 color: 'pink',
                 status: 'Live',
                 link: "https://blogzly.vercel.app/"
